@@ -1,0 +1,3 @@
+TODO(MNahVR): atividade de pweb2 - onde se deve:
+
+ Implementar uma funcionalidade de cadastro. Essa funcionalidade deve ser composta por um formulário contendo os campos "Nome" e "Telefone". Esse formulário deve enviar os dados para um script PHP que irá armazenar os dados enviados em um banco de dados e exibir um link de acesso para visualizar esses dados. Este link deve direcionar para um outro script PHP que fará a impressão dos dados salvos na sessão. Anexe um link para seu repositório no Github contendo os arquivos dessa implementação ou compartilhar o link da sua implementação no https://phpsandbox.io/.
